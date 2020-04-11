@@ -1,1 +1,1 @@
-# psychiatric-chatbot-corona
+# psychiatric-chatbot-COVID 19
