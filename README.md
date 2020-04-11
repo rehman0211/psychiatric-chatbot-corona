@@ -1,4 +1,4 @@
-# flask-chatterbot
+# psychiatric-chatbot-COVID 19
 
 #### A web implementation of [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
 
